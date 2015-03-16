@@ -1,0 +1,15 @@
+Script started on 2015年03月16日 (週一) 23時14分47秒
+]0;F74025042@2015cpp: ~/lab1F74025042@2015cpp:~/lab1$ whoami:[K;pwd
+F74025042
+/home/F74025042/lab1
+]0;F74025042@2015cpp: ~/lab1F74025042@2015cpp:~/lab1$ git config -l
+user.name=limyongheng
+user.email=f74025042@mail.ncku.edu.tw
+]0;F74025042@2015cpp: ~/lab1F74025042@2015cpp:~/lab1$ git clone https://githu b.com/limyongheng/lab1.git
+Cloning into 'lab1'...
+'warning: You appear to have cloned an empty repository.
+]0;F74025042@2015cpp: ~/lab1F74025042@2015cpp:~/lab1$ '[Kcat lab1.script
+]0;F74025042@2015cpp: ~/lab1F74025042@2015cpp:~/lab1$ mv lab1.c[Ksv[Kcript lab1
+]0;F74025042@2015cpp: ~/lab1F74025042@2015cpp:~/lab1$ exit
+
+Script done on 2015年03月16日 (週一) 23時20分37秒
